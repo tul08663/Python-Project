@@ -1,0 +1,41 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Ekans
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A game a of snake but there will be a poison apple that will decrease your score
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+the software will let you play snake. you will be able to move around a screen and have to collect apples to increase your score, but there will be poisonous apples that will decrease your score.
+the features that it has is that there will be a score board on the top of the screen displaying your current score. the snake will grow as it eats apples but will shronk is it eats a poisonous apple.
+it will be executed on python.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Brandon and Lucky
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+will make snake but add a poison apple
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+will add a golden apple that increases score by alot and adds a diferent colored block in the snake
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+add the powerup so the snake might go faster or slower and other power ups
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+our next step will be to try and figure out a way to have the two apples not spawn on top of each other.
