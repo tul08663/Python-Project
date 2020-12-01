@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Michael Zheng
 
 #### Your section leader's name
 
-TODO
+Joanne Nichols
 
 #### Project title
 
-TODO
+Snake 2.0
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have created the basic snake game so far
 
 #### What have you not done for your project yet?
 
-TODO
+I still need to add the poison apple and golden apple.
 
 #### What problems, if any, have you encountered?
 
-TODO
+I am not sure how to randomize the golden apple so that it does not show up everytime the snake eats some food.
