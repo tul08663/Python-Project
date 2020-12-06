@@ -1,5 +1,5 @@
 # Python-Project
-https://www.youtube.com/watch?v=2BnpA0KNl2g&feature=youtu.be
+https://youtu.be/d1_fEPohkRg
 
 We enjoyed the aspect of creating the game with our twist and take and making it exicting as well as challenging. 
 By adding power ups for the game can either bless a player with extra points or anniliate the player's current score to their downfall.
